@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*
- * main entry_point
- *
- * return : always 0 (success)
- */
+/**
+  * main - A program that prints a link using puts
+  *
+  *Description: prints programming is like building a multilingual
+  *
+  *Return: Always 0 (Success)
+  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
