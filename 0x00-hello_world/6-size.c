@@ -16,4 +16,3 @@ int main(void)
 	printf("size of float : %lu byte \n",sizeof(float));
         return 0;
 }
-
